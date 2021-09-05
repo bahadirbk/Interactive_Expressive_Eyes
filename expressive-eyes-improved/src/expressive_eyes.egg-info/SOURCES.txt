@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/expressive_eyes/__init__.py
+src/expressive_eyes/face_manager.py
+src/expressive_eyes/faces.py
+src/expressive_eyes.egg-info/PKG-INFO
+src/expressive_eyes.egg-info/SOURCES.txt
+src/expressive_eyes.egg-info/dependency_links.txt
+src/expressive_eyes.egg-info/top_level.txt

@@ -20,7 +20,7 @@ In order to manage to install and run without having an issue, the opencv versio
 
 ## Running
 
-Running the code:
+Running the code (in order):
 
 - roscore
 - rosrun usb_cam usb_cam_node

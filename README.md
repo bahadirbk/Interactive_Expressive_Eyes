@@ -1,5 +1,9 @@
 # Interactive Expressive Eyes
 
+## Video Presentation of the project
+
+https://www.youtube.com/watch?v=GiftcBs3MwY
+
 ## Requirements of the project (in order)
 
 - Python 3.8+
@@ -26,6 +30,7 @@ Running the code (in order):
 - rosrun usb_cam usb_cam_node
 - roslaunch openface2_ros openface2_ros.launch
 - python_subscriber.py
+
 
 
 

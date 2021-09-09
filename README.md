@@ -2,6 +2,8 @@
 
 ![expressions](https://user-images.githubusercontent.com/51151059/132763601-ae5e1f1b-7563-46aa-b82b-4d0e52f4f538.gif)
 
+Using OpenFace, ROS, and Pyhon combination, the eyes can instantly imitate the expressions of a person. They also do eye tracking and follow the eye movements (not pupil movements, individual eye movements).
+
 ## Video Presentation of the project
 
 https://www.youtube.com/watch?v=GiftcBs3MwY

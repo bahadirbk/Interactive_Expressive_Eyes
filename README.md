@@ -1,5 +1,7 @@
 # Interactive Expressive Eyes
 
+![expressions](https://user-images.githubusercontent.com/51151059/132763601-ae5e1f1b-7563-46aa-b82b-4d0e52f4f538.gif)
+
 ## Video Presentation of the project
 
 https://www.youtube.com/watch?v=GiftcBs3MwY

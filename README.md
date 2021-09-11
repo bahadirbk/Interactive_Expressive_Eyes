@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=GiftcBs3MwY
 
 ## Clone
 
-- `git clone https://github.com/bahadirbk/Interactive_Expressive_Eyes.git
+- git clone https://github.com/bahadirbk/Interactive_Expressive_Eyes.git
 
 ## Details
 

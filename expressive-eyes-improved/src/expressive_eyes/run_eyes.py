@@ -74,11 +74,11 @@ def run_interactive_eyes(action_units, right_x, right_y, left_x, left_y):
             current_emotion = emotions.HAPPY
             fm.set_next_expression(exp.Happiness(), 2)
 
-        if action_units[10].intensity > 2 and action_units[4].intensity > 2 and action_units[14].intensity <= 2.25:
+        if action_units[10].intensity > 3.5 and action_units[4].intensity > 2.5 and action_units[14].intensity <= 2.25:
             current_emotion = emotions.SURPRISED
             fm.set_next_expression(exp.Surprise(), 2)
     
-        if action_units[4].intensity > 2 and action_units[12].intensity > 1:
+        if action_units[4].intensity > 2 and action_units[12].intensity > 2:
             current_emotion = emotions.SAD
             fm.set_next_expression(exp.Sadness(), 2)
 
